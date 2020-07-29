@@ -5,7 +5,7 @@ const port = 3000
 app.set('view engine', 'pug')
 
 app.get('/', (req, res) => {
-	res.render('index', { title: 'Hey', message: 'Hello there!' })
+	res.render('index')
 })
 
 app.listen(port, () => {

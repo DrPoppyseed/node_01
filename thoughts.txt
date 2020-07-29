@@ -1,0 +1,11 @@
+What kind of website do I want to make?
+
+What objectives do I have in creating this website?
+- I want to keep things as simple as can be, so that I can concentrate on the core functionalities of the site
+- I want to learn to create a website with CRUD operations 
+- How about creating something I really want?
+- OR stick to the basics
+	- Colleges 
+		- Get the names and basic information on the colleges
+		- Have a login and like system
+		
